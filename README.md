@@ -17,5 +17,5 @@ Lumen is signed but not notarized by Apple, so the cask clears macOS's
 "downloaded from the internet" flag after installing; otherwise macOS
 refuses to open it the first time.
 
-Update with `brew upgrade --cask lumen`; remove with
+Update with `brew update && brew upgrade --cask lumen`; remove with
 `brew uninstall --cask lumen` (add `--zap` to remove its settings too).
