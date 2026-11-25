@@ -1,6 +1,6 @@
 cask "lumen" do
-  version "0.1.0"
-  sha256 "f6c7b47f096150588513316a469a598c3892fd567fa911d0efe9e63f0335a0bf"
+  version "0.2.0"
+  sha256 "fee6a8306d186cd6392da35ade54fde9517b6bc49b276fffb4e01fb64640b731"
 
   url "https://github.com/chris-reusch/homebrew-tap/releases/download/lumen-v#{version}/Lumen-#{version}.zip"
   name "Lumen"
